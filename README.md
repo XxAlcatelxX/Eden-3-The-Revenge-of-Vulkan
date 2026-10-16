@@ -17,7 +17,10 @@
 
 <h4 align="center"><b>Eden</b> is a free and open-source (FOSS) Switch 1 emulator started by developer Camille LaVey.
 <br>
-Written in C++, with builds for Windows, Linux, macOS, Android, FreeBSD and more.
+Written in C++, with builds for Windows, Linux, macOS, Android, FreeBSD and more. But in this case I am focusing with providing iOS support and implementing KosmicKrisp as an API
+  This fork focuses only for practicing my skills in C++ and Apple tools, don't expect something interesting about this and try to not promote this project as something incredible.
+  I will accept feedback of anything helpful to improve this fork!
+  I will use AI as a tool (and not vibecoding all the entire code) to improve progress easely
 </h4>
 
 <p align="center">
@@ -47,7 +50,9 @@ The emulator is capable of running most commercial games at full speed, provided
 
 A list of supported games will be available in future. Please be patient.
 
-Check out our [website](https://eden-emu.dev) for the latest news on exciting features, monthly progress reports, and more!
+Check the original [website](https://eden-emu.dev) for the latest news on exciting features and monthly progress reports of the original project
+
+The compatibility in this fork is uncertainly.
 
 [![Packaging status](https://repology.org/badge/vertical-allrepos/eden-emulator.svg)](https://repology.org/project/eden-emulator/versions)
 
