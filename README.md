@@ -11,7 +11,7 @@
   <br>
   <a href="https://git.eden-emu.dev/eden-emu/eden"><img src="./dist/qt_themes/default/icons/256x256/eden.png" alt="Eden" width="200"></a>
   <br>
-  <b>Eden</b>
+  <b>Eden 3: The Revenge Of Vulkan</b>
   <br>
 </h1>
 
